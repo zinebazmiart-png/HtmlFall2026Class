@@ -1,0 +1,17 @@
+body {
+    margin:0;
+font-family:Arial, Helvetica, sans-serif;
+color:#222222;
+line-height: 1.5;
+}
+
+header{
+    padding: 1rem 2rem;
+    background-color: #3b0509;
+    color: #222222;
+}
+
+header img {
+    height: 250px;
+    width:auto;
+}
